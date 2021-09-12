@@ -1,0 +1,21 @@
+*
+{
+    outline: none;
+}
+
+html, body
+{
+    height: 100%;
+    min-height: 100%;
+    text-align: center;
+}
+
+body
+{
+    margin: 80px;
+    background-color: #ffd8d8;
+}
+
+# content{
+    width: 100%;
+  }
