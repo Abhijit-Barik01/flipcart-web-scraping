@@ -6,3 +6,26 @@ http://reviewaws-env.eba-rtpyump2.us-east-2.elasticbeanstalk.com/
 
 --HEROKU--
 https://webscrapperabhijit.herokuapp.com/                                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=v2DjseL3DAQ&t=6500s
